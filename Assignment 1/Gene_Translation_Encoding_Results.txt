@@ -1,0 +1,23 @@
+5'3' Frame 1
+cctgcccgtgcagccagaggatccagcacctctcttggggcttctccgtcctcggcgctt
+ P  A  R  A  A  R  G  S  S  T  S  L  G  A  S  P  S  S  A  L 
+
+5'3' Frame 2
+cctgcccgtgcagccagaggatccagcacctctcttggggcttctccgtcctcggcgcttg
+  L  P  V  Q  P  E  D  P  A  P  L  L  G  L  L  R  P  R  R  L
+
+5'3' Frame 3
+cctgcccgtgcagccagaggatccagcacctctcttggggcttctccgtcctcggcgcttgg
+   C  P  C  S  Q  R  I  Q  H  L  S  W  G  F  S  V  L  G  A  W 
+
+3'5' Frame 1
+ttaatcattggagtcttgtggctcactactgtcacaggtgatattctgtaccaggtaggc
+ L  I  I  G  V  L  W  L  T  T  V  T  G  D  I  L  Y  Q  V  G 
+
+3'5' Frame 2
+ttaatcattggagtcttgtggctcactactgtcacaggtgatattctgtaccaggtaggca
+  -  S  L  E  S  C  G  S  L  L  S  Q  V  I  F  C  T  R  -  A 
+
+3'5' Frame 3
+ttaatcattggagtcttgtggctcactactgtcacaggtgatattctgtaccaggtaggcat
+   N  H  W  S  L  V  A  H  Y  C  H  R  -  Y  S  V  P  G  R  H 

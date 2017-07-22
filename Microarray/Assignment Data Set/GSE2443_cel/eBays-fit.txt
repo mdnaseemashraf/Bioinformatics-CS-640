@@ -1,0 +1,138 @@
+An object of class "MArrayLM"
+$coefficients
+          untreated androgen-independent
+1007_s_at 10.001418         -0.019551062
+1053_at    4.139697         -0.099580302
+117_at     6.084408         -0.088449919
+121_at     7.782143         -0.037371708
+1255_g_at  3.842826         -0.009424233
+22278 more rows ...
+
+$rank
+[1] 2
+
+$assign
+[1] 0 1
+
+$qr
+$qr
+   untreated androgen-independent
+1 -4.4721360            -2.236068
+2  0.2236068             2.236068
+3  0.2236068             0.182744
+4  0.2236068             0.182744
+5  0.2236068             0.182744
+15 more rows ...
+
+$qraux
+[1] 1.223607 1.182744
+
+$pivot
+[1] 1 2
+
+$tol
+[1] 1e-07
+
+$rank
+[1] 2
+
+
+$df.residual
+[1] 18 18 18 18 18
+22278 more elements ...
+
+$sigma
+ 1007_s_at    1053_at     117_at     121_at  1255_g_at 
+0.18671727 0.10260162 0.14519287 0.18194898 0.07583066 
+22278 more elements ...
+
+$cov.coefficients
+                     untreated androgen-independent
+untreated                  0.1                 -0.1
+androgen-independent      -0.1                  0.2
+
+$stdev.unscaled
+          untreated androgen-independent
+1007_s_at 0.3162278            0.4472136
+1053_at   0.3162278            0.4472136
+117_at    0.3162278            0.4472136
+121_at    0.3162278            0.4472136
+1255_g_at 0.3162278            0.4472136
+22278 more rows ...
+
+$pivot
+[1] 1 2
+
+$Amean
+1007_s_at   1053_at    117_at    121_at 1255_g_at 
+ 9.991643  4.089907  6.040183  7.763457  3.838114 
+22278 more elements ...
+
+$method
+[1] "ls"
+
+$design
+  untreated androgen-independent
+1         1                    0
+2         1                    0
+3         1                    0
+4         1                    0
+5         1                    0
+15 more rows ...
+
+$df.prior
+[1] 2.335018
+
+$s2.prior
+[1] 0.03753492
+
+$var.prior
+[1] 426.269780   2.353936
+
+$proportion
+[1] 0.01
+
+$s2.post
+  1007_s_at     1053_at      117_at      121_at   1255_g_at 
+0.035170108 0.013628330 0.022970333 0.033614057 0.009400036 
+22278 more elements ...
+
+$t
+          untreated androgen-independent
+1007_s_at  168.6455           -0.2331141
+1053_at    112.1366           -1.9073795
+117_at     126.9506           -1.3049648
+121_at     134.2266           -0.4557928
+1255_g_at  125.3389           -0.2173533
+22278 more rows ...
+
+$df.total
+[1] 20.33502 20.33502 20.33502 20.33502 20.33502
+22278 more elements ...
+
+$p.value
+             untreated androgen-independent
+1007_s_at 1.800875e-33           0.81800328
+1053_at   7.171458e-30           0.07069629
+117_at    5.771676e-31           0.20647967
+121_at    1.860683e-31           0.65336889
+1255_g_at 7.481633e-31           0.83009903
+22278 more rows ...
+
+$lods
+          untreated androgen-independent
+1007_s_at  65.47466            -5.842420
+1053_at    58.35949            -4.261325
+117_at     60.62901            -5.080488
+121_at     61.62128            -5.768759
+1255_g_at  60.39905            -5.845843
+22278 more rows ...
+
+$F
+[1] 28385.76 12275.76 15883.86 17930.48 15671.37
+22278 more elements ...
+
+$F.p.value
+[1] 9.169445e-36 4.589553e-32 3.347946e-33 9.770720e-34 3.838947e-33
+22278 more elements ...
+

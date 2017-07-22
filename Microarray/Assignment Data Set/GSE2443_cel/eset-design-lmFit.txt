@@ -1,0 +1,82 @@
+An object of class "MArrayLM"
+$coefficients
+          untreated androgen-independent
+1007_s_at 10.001418         -0.019551062
+1053_at    4.139697         -0.099580302
+117_at     6.084408         -0.088449919
+121_at     7.782143         -0.037371708
+1255_g_at  3.842826         -0.009424233
+22278 more rows ...
+
+$rank
+[1] 2
+
+$assign
+[1] 0 1
+
+$qr
+$qr
+   untreated androgen-independent
+1 -4.4721360            -2.236068
+2  0.2236068             2.236068
+3  0.2236068             0.182744
+4  0.2236068             0.182744
+5  0.2236068             0.182744
+15 more rows ...
+
+$qraux
+[1] 1.223607 1.182744
+
+$pivot
+[1] 1 2
+
+$tol
+[1] 1e-07
+
+$rank
+[1] 2
+
+
+$df.residual
+[1] 18 18 18 18 18
+22278 more elements ...
+
+$sigma
+ 1007_s_at    1053_at     117_at     121_at  1255_g_at 
+0.18671727 0.10260162 0.14519287 0.18194898 0.07583066 
+22278 more elements ...
+
+$cov.coefficients
+                     untreated androgen-independent
+untreated                  0.1                 -0.1
+androgen-independent      -0.1                  0.2
+
+$stdev.unscaled
+          untreated androgen-independent
+1007_s_at 0.3162278            0.4472136
+1053_at   0.3162278            0.4472136
+117_at    0.3162278            0.4472136
+121_at    0.3162278            0.4472136
+1255_g_at 0.3162278            0.4472136
+22278 more rows ...
+
+$pivot
+[1] 1 2
+
+$Amean
+1007_s_at   1053_at    117_at    121_at 1255_g_at 
+ 9.991643  4.089907  6.040183  7.763457  3.838114 
+22278 more elements ...
+
+$method
+[1] "ls"
+
+$design
+  untreated androgen-independent
+1         1                    0
+2         1                    0
+3         1                    0
+4         1                    0
+5         1                    0
+15 more rows ...
+
